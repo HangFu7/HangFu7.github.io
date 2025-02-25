@@ -1,11 +1,4 @@
----
-permalink: /
-title: "About Me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 Hi! I am a first year graduate student at Beijing Institute of Technology. I work with Prof. Liehuang Zhu and Prof. Licheng Wang.
 
